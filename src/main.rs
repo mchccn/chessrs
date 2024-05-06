@@ -1,5 +1,6 @@
 #![allow(dead_code, non_upper_case_globals)]
 
+mod board_representation;
 mod game_state;
 mod piece;
 
