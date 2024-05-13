@@ -4,5 +4,6 @@ mod bitboard;
 mod board_representation;
 mod game_state;
 mod piece;
+mod piece_list;
 
 fn main() {}
